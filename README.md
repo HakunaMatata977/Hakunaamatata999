@@ -46,8 +46,4 @@ Always building, always learning.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HakunaMatata977&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalunaMatata977&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+
