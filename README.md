@@ -42,7 +42,7 @@ Always building, always learning.
 
 [![Email](https://img.shields.io/badge/-mockingbird0003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mockingbird0003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-HalunaMatata977-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/HalunaMatata)
-[![GitHub](https://img.shields.io/badge/-HalunaMatata-181717?style=flat&logo=github&logoColor=white)](https://github.com/HalunaMatata)
+[![GitHub](https://img.shields.io/badge/-HalunaMatata977-181717?style=flat&logo=github&logoColor=white)](https://github.com/HalunaMatata)
 
 ---
 
