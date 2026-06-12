@@ -41,13 +41,13 @@ Always building, always learning.
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/-mockingbird0003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mockingbird0003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-HalunaMatata-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/HalunaMatata)
+[![LinkedIn](https://img.shields.io/badge/-HalunaMatata977-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/HalunaMatata)
 [![GitHub](https://img.shields.io/badge/-HalunaMatata-181717?style=flat&logo=github&logoColor=white)](https://github.com/HalunaMatata)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HakunaMatata&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HakunaMatata977&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalunaMatata&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalunaMatata977&layout=compact&hide_border=true" alt="Top languages" />
 </p>
