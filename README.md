@@ -1,4 +1,4 @@
-# Hi there, I'm HalunaMatata 👋
+# Hi there, I'm HakunaMatata 👋
 
 > BE Computer Engineering · Everest Engineering College, Nepal
 
