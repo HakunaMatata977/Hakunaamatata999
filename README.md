@@ -39,8 +39,7 @@ Always building, always learning.
 ---
 
 ## 🧩 Coding Practice
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-Hakuna%20Matata-FFA116?style=flat\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/HakunaMatata)
+https://leetcode.com/u/hakunamatata977/
 
 ---
 
